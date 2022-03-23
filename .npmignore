@@ -110,3 +110,13 @@ api
 __test__
 .github
 docs
+
+# Additional
+.husky
+.vscode
+.eslintrc.js
+.prettierrc.js
+tsconfig.json
+typedoc.json
+jest.config.js
+

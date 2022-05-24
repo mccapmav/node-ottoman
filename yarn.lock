@@ -4318,15 +4318,15 @@
     "path-type" "^4.0.0"
     "yaml" "^1.10.0"
 
-"couchbase@4.0.0":
-  "integrity" "sha512-iD4d44KYw3WJf6K9v8XOOgOxSx+6o17CEVn3k1ILXQMcCd01SXoF9lywPV7WayCmePbrf4bBc1FDmeCgbNPJhA=="
-  "resolved" "https://registry.npmjs.org/couchbase/-/couchbase-4.0.0.tgz"
-  "version" "4.0.0"
+"couchbase@4.1.0":
+  "integrity" "sha512-HLRe+kQiZIncXNrSWd9u60pw2i5qvZYToO/oKTKumPkNIjCwNjn7j6/iKV33so6jsDjspFPowR0IZgPo+Oc+BQ=="
+  "resolved" "https://registry.npmjs.org/couchbase/-/couchbase-4.1.0.tgz"
+  "version" "4.1.0"
   dependencies:
     "bindings" "^1.5.0"
     "cmake-js" "^6.3.0"
     "node-addon-api" "^4.3.0"
-    "prebuild-install" "^7.0.1"
+    "prebuild-install" "^7.1.0"
 
 "create-ecdh@^4.0.0":
   "integrity" "sha512-mf+TCx8wWc9VpuxfP2ht0iSISLZnt0JgWlrOKZiNqyUZWnjIaCIVNQArMHnCZKfEYRg6IM7A+NeJoN8gf/Ws0A=="
@@ -9213,9 +9213,9 @@
     "lower-case" "^1.1.1"
 
 "node-abi@^3.3.0":
-  "integrity" "sha512-tzua9qWWi7iW4I42vUPKM+SfaF0vQSLAm4yO5J83mSwB7GeoWrDKC/K+8YCnYNwqP5duwazbw2X9l4m8SC2cUw=="
-  "resolved" "https://registry.npmjs.org/node-abi/-/node-abi-3.8.0.tgz"
-  "version" "3.8.0"
+  "integrity" "sha512-Ic6z/j6I9RLm4ov7npo1I48UQr2BEyFCqh6p7S1dhEx9jPO0GPGq/e2Rb7x7DroQrmiVMz/Bw1vJm9sPAl2nxA=="
+  "resolved" "https://registry.npmjs.org/node-abi/-/node-abi-3.15.0.tgz"
+  "version" "3.15.0"
   dependencies:
     "semver" "^7.3.5"
 
@@ -10498,10 +10498,10 @@
     "picocolors" "^0.2.1"
     "source-map" "^0.6.1"
 
-"prebuild-install@^7.0.1":
-  "integrity" "sha512-QBSab31WqkyxpnMWQxubYAHR5S9B2+r81ucocew34Fkl98FhvKIF50jIJnNOBmAZfyNV7vE5T6gd3hTVWgY6tg=="
-  "resolved" "https://registry.npmjs.org/prebuild-install/-/prebuild-install-7.0.1.tgz"
-  "version" "7.0.1"
+"prebuild-install@^7.1.0":
+  "integrity" "sha512-CNcMgI1xBypOyGqjp3wOc8AAo1nMhZS3Cwd3iHIxOdAUbb+YxdNuM4Z5iIrZ8RLvOsf3F3bl7b7xGq6DjQoNYA=="
+  "resolved" "https://registry.npmjs.org/prebuild-install/-/prebuild-install-7.1.0.tgz"
+  "version" "7.1.0"
   dependencies:
     "detect-libc" "^2.0.0"
     "expand-template" "^2.0.3"
